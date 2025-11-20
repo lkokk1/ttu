@@ -1,0 +1,56 @@
+{
+"name":"Emby图标库", 
+"description":"在原作者Softlyx的基础上新增，图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿。", 
+"icons":
+    [
+	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby.png"},
+	{"name":"Emby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby1.png"},
+	{"name":"Embys", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embys.png"},
+	{"name":"Embys1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embys1.png"},
+	{"name":"Embyks", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embyks.png"},
+	{"name":"Embyks1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embyks1.png"},
+	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jellyfin.png"},
+	{"name":"Plex", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plex.png"},
+	{"name":"Plex1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plex1.png"},
+	{"name":"Plex2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Plex2.png"},
+	{"name":"FeiniuOS", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/FeiniuOS.png"},
+	{"name":"Openlist", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Openlist.png"},
+
+	{"name":"AcEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/AcEmby.png"},
+	{"name":"AcEmby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/AcEmby1.png"},
+	{"name":"Acg", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Acg.png"},
+	{"name":"Acg1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Acg1.png"},
+	{"name":"Agan", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Agan.png"},
+	{"name":"Akuai", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Akuai.png"},
+	{"name":"Alpha", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alpha.png"},
+	{"name":"AnimeHome", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/AnimeHome.png"},
+	{"name":"Apop", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Apop.png"},
+	{"name":"Asakie", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Asakie.png"},
+	{"name":"Atvii", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Atvii.png"},
+	{"name":"Awa", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Awa.png"},
+
+	{"name":"AlphaTVOG", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOG.png"},
+	{"name":"AlphaTVOG1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOG1.png"},
+	{"name":"AlphaTVOG2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOG2.png"},
+	{"name":"AlphaTVOG3", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOG3.png"},
+	{"name":"AlphaTVOG4", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOG4.png"},
+	{"name":"AlphaTVOGPro", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOGPro.png"},
+	{"name":"AlphaTVOPro1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOGPro1.png"},
+	{"name":"AlphaTVOGX", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOGX.png"},
+	{"name":"AlphaTVOGX1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AlphaTVOGX1.png"},
+	{"name":"Auroramedia", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Auroramedia.png"},
+	{"name":"Auroramedia1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Auroramedia1.png"},
+	{"name":"Ask", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Ask.png"},
+	{"name":"Aurora", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Aurora.png"},
+	{"name":"Awa1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Awa1.png"},
+	{"name":"AniSaga", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/AniSaga.png"},
+
+	{"name":"Bailangtu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Bailangtu.png"},
+	{"name":"BaiPiaoWang", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BaiPiaoWang.png"},
+	{"name":"Bdd", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Bdd.png"},
+	{"name":"Bdd1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Bdd1.png"},
+	{"name":"Beitai", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Beitai.png"},
+	{"name":"Wenjianmusic", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Wenjianmusic.png"}
+	
+    ]
+}
